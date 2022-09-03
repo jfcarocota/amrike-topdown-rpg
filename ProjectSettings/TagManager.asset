@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: GroundGrass
+    uniqueID: 1330595273
+    locked: 0
+  - name: Player
+    uniqueID: 1320636767
+    locked: 0
